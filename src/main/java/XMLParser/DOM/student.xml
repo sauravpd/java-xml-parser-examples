@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<college>
+	<student rollNo="201">
+		<studentName>John</studentName>
+	</student>
+	<student rollNo="202">
+		<studentName>Steve</studentName>
+	</student>
+</college>
