@@ -10,6 +10,11 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+/**
+ * DOM Parser read XML Demo
+ * @author saurav
+ *
+ */
 public class readXMLDemo 
 {
 	public static void main(String[] args) 
@@ -29,7 +34,7 @@ public class readXMLDemo
 				{
 					Element element=(Element) node;
 					System.out.println(element.getElementsByTagName("studentName").item(0).getTextContent());
-					
+
 				}
 			}
 
