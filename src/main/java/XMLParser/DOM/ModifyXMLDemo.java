@@ -14,6 +14,11 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+/**
+ * DOM Parser Modify XML Demo
+ * @author saurav
+ *
+ */
 public class ModifyXMLDemo 
 {
 	public static void main(String[] args) 
