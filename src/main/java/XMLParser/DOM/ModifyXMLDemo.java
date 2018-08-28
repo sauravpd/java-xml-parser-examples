@@ -51,7 +51,7 @@ public class ModifyXMLDemo
 				if(node.getNodeType()==Node.ELEMENT_NODE)
 				{
 					Element element=(Element) node;
-					System.out.println(element.getElementsByTagName("studentName").item(0).getTextContent());
+					System.out.println("Name : "+element.getElementsByTagName("studentName").item(0).getTextContent());
 				}
 			}
 
