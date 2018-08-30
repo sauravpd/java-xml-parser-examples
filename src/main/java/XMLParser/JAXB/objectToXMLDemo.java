@@ -5,7 +5,11 @@ import java.io.File;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
-
+/**
+ * JAXB : java object to XML demo
+ * @author saurav
+ *
+ */
 public class objectToXMLDemo 
 {
 	public static void main(String[] args) 
