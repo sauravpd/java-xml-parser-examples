@@ -6,6 +6,11 @@ import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 
+/**
+ * JAXB : java XML to java object demo
+ * @author saurav
+ *
+ */
 public class XmlToObjectDemo 
 {
 	public static void main(String[] args) 
