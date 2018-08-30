@@ -1,9 +1,12 @@
 package XMLParser.JAXB;
 
-import java.util.List;
-
 import javax.xml.bind.annotation.XmlRootElement;
 
+/**
+ * Employee class
+ * @author saurav
+ *
+ */
 @XmlRootElement
 public class Employee 
 {
